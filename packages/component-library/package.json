@@ -1,0 +1,16 @@
+{
+  "name": "@my-repo/component-library",
+  "version": "1.0.0",
+  "main": "src/index.tsx",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@storybook/react-native": "^10.1.11",
+    "@types/react": "~19.1.0",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "typescript": "^5.3.0"
+  }
+}
