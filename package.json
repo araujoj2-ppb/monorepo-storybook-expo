@@ -1,0 +1,4 @@
+{
+  "name": "monorepo-storybook-expo",
+  "packageManager": "yarn@4.9.1"
+}
